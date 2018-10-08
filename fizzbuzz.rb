@@ -8,6 +8,6 @@ def fizzbuzz(number)
   elsif (number % 3) && (number % 5)
   return "fizzbuzz"
 else number % 3 || !(number % 5)
-  return "fizzbuzz"
+  return 
   end
 end
